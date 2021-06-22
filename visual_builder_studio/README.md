@@ -1,4 +1,8 @@
-# Visual Builder Studio
+# ORACLE VISUAL BUILDER STUDIO
+
+- [Visual Builder Studio](#visual-builder-studio)
+  - [Main Page](#main-page)
+  - [Documentation](#documentation)
 
 ## Main Page
 
