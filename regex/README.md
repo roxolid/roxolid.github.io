@@ -1,5 +1,13 @@
 # REGEX - Regular Expressions
 
+- [REGEX - Regular Expressions](#regex---regular-expressions)
+  - [Tutorial](#tutorial)
+  - [Regex Basics by CodingGame](#regex-basics-by-codinggame)
+  - [HOWTO: Regex summary with examples](#howto-regex-summary-with-examples)
+  - [Java Pattern class (pattern matching)](#java-pattern-class-pattern-matching)
+  - [Other](#other)
+    - [How to match with ignore case in Java](#how-to-match-with-ignore-case-in-java)
+
 ## Tutorial
 Incl. Unicode classes.
 

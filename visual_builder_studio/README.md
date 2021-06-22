@@ -1,6 +1,6 @@
 # ORACLE VISUAL BUILDER STUDIO
 
-- [Visual Builder Studio](#visual-builder-studio)
+- [ORACLE VISUAL BUILDER STUDIO](#oracle-visual-builder-studio)
   - [Main Page](#main-page)
   - [Documentation](#documentation)
 
