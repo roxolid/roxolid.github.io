@@ -5,17 +5,22 @@
   - [Download and install](#download-and-install)
   - [User guide](#user-guide)
     - [Other guides](#other-guides)
+  - [Micronaut Maven plugin](#micronaut-maven-plugin)
     - [Other sources](#other-sources)
       - [Dockerize Micronaut app](#dockerize-micronaut-app)
       - [Micronaut 101 (incl. creating app with CLI)](#micronaut-101-incl-creating-app-with-cli)
+      - [Automatic Autonomous Wallet Download & Configuration with Micronaut](#automatic-autonomous-wallet-download--configuration-with-micronaut)
+      - [Building Java Cloud Applications with Micronaut and OCI](#building-java-cloud-applications-with-micronaut-and-oci)
   - [Communication (chats/rooms)](#communication-chatsrooms)
   - [JavaDoc](#javadoc)
   - [Examples](#examples)
   - [Kubernetes](#kubernetes)
   - [OCI Cloud](#oci-cloud)
+  - [Tracing](#tracing)
   - [Other](#other)
     - [vnd.error](#vnderror)
     - [JSON Hypertext Application Language (HAL)](#json-hypertext-application-language-hal)
+    - [Jib - containerize Maven application](#jib---containerize-maven-application)
 
 ## Main page
 
