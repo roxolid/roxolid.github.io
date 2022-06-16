@@ -25,11 +25,11 @@ Today I learned
 ## Outliners
 
 * [Databases](data)
-    - [AJD](data/ajd/ajd.md): Autonomous JSON Database
-    - [JDBC](data/jdbc): Java Database Connectivity
-    - [Persistence](data/persistence/persistence.md): JPA & co.
-* [Docker](docker/docker.md): Virtualization
-* [Fn Project](fn): Serverless
-* [Micronaut](micronaut/micronaut.md): Microservices
-* [OCI](oci): Oracle Cloud Infrastructure
+    - [AJD](outliners/data/ajd/ajd.md): Autonomous JSON Database
+    - [JDBC](outliners/data/jdbc): Java Database Connectivity
+    - [Persistence](outliners/data/persistence/persistence.md): JPA & co.
+* [Docker](outliners/docker/docker.md): Virtualization
+* [Fn Project](outliners/fn): Serverless
+* [Micronaut](outliners/micronaut/micronaut.md): Microservices
+* [OCI](outliners/oci): Oracle Cloud Infrastructure
 
