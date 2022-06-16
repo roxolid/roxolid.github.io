@@ -1,7 +1,12 @@
-# roxolid.github.io
-roxolid's links
+# roxolid's links
+
+Today I learned
 
 - [TIL](til/README.md)
+
+Notes
+
+- [JAVA](java/README.md)
 - [OVBS](visual_builder_studio/README.md)
 - [PANDOC](pandoc/README.md)
 - [MICRONAUT](micronaut/README.md)
