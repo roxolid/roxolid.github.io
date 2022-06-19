@@ -22,6 +22,9 @@ Today I learned
     - [Credential helper](git/credentials_helper.md): How to store credentials for project
     - [Push branch and track](git/push_local_branch_and_track.md ): Push local branch and track it
 
+* [YAML](yaml)
+    - [.vimrc for YAML](yaml/vimrc_yaml.md): Alter VIM configuration for better YAML editing experience
+
 ## Outliners
 
 * [Databases](data)
